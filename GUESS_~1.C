@@ -15,7 +15,7 @@ int main() {
     
     // Choose difficulty level
     printf("Select difficulty level:\n");
-    printf("1. Easy (10 attempts)\n");
+    printf("1. Easy (12 attempts)\n");
     printf("2. Medium (7 attempts)\n");
     printf("3. Hard (5 attempts)\n");
     printf("Enter your choice (1-3): ");
@@ -55,3 +55,4 @@ int main() {
 
     return 0;
 }
+
