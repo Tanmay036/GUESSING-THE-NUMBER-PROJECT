@@ -35,6 +35,6 @@ skills.
 👨‍💻 Author
 **Tanmay**
 **25BCA20036**
-LICENSE
+🧾 License
 ---
 
