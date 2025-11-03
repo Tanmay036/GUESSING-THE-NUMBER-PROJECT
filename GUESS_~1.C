@@ -23,7 +23,7 @@ int main() {
 
     // Set maximum attempts based on difficulty
     switch(difficulty) {
-        case 1: maxAttempts = 10; break;
+        case 1: maxAttempts = 12; break;
         case 2: maxAttempts = 7; break;
         case 3: maxAttempts = 5; break;
         default: 
@@ -55,4 +55,5 @@ int main() {
 
     return 0;
 }
+
 
